@@ -24,9 +24,19 @@ Tham khảo [hướng dẫn Markdown của GitHub](https://docs.github.com/en/ge
 2.  Tạo các tệp quản lý dữ liệu.
 3.  Kiểm tra website và cập nhật thông tin.
 ## 4. Cấu trúc thư mục
-Thư mục:|Nội dung
-|---:|---|
+Thư mục|Nội dung
+|:---|---|
 docs|Tài liệu bàn giao
 data|Danh sách cầu thủ và trận đấu
 logs|Log website
-
+```powershell
+Liệt kê toàn bộ dự án
+ls -Force -Recurse
+```
+## 5. Tiến độ dự án
+-  [x] Sắp xếp thư mục dự án.
+-  [ ] Đưa dự án lên GitHub.
+> Không tải file `.env` lên GitHub.
+> > Kiểm tra `.gitignore` để đảm bảo các tệp chứa thông tin bí mật không bị tải lên repository.
+---
+\*không in nghiêng\*
