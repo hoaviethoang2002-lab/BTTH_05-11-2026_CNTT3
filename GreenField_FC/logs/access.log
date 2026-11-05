@@ -1,0 +1,13 @@
+2026-10-28 18:03:17 GET / status=200
+2026-10-28 18:03:22 GET /images/logo-sai.png status=404
+2026-10-28 18:03:25 GET /api/players status=500
+2026-10-28 18:04:01 GET /style.css status=200
+2026-10-28 18:05:12 GET /api/players status=500
+2026-10-28 18:07:44 GET /fixtures status=404
+2026-10-28 18:10:09 GET /api/players status=200
+2026-10-28 18:13:52 GET /favicon.ico status=404
+2026-10-28 18:20:30 GET /api/players status=500
+2026-10-28 18:25:06 GET / status=200
+2026-10-28 18:32:18 GET /api/players status=404
+2026-10-28 18:45:39 GET /api/players status=200
+
